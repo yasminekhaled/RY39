@@ -1,0 +1,21 @@
+
+body {
+
+       color : rgb(76,0,0);
+       font-family: arial;
+       margin: 0px ;
+}
+h1,h2{
+  text-align: center;
+}
+
+h1 {
+font-size: sem;
+}
+.yassmeno{border-radius: 50%;}
+.yassmeno{
+     display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+ }
